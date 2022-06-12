@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "myVow",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/NomadicAsim.sol": "NomadicAsim"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/NomadicAsim.sol": {
+			"keccak256": "0xe4ea162537b6b3002cadb028f80be378c00750a19697144250835ba35deff3c3",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://0fa6e10b66b5b15c7af9e32f60bbcaa26e52b6258e8184c4526dd4d562e07117",
+				"dweb:/ipfs/Qmf7ZU44G1qXsmVDKqrPjyahfQ9ELo7M2bEYRUTHQ5Zndo"
+			]
+		}
+	},
+	"version": 1
+}
